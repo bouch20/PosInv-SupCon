@@ -81,3 +81,20 @@ Set **λ** inside the notebook to match the configurations in the results table 
 * **Seeds:** 42, 43, 44 (as used in the results table).
 * **Batch size:** 16 for reported numbers.
 * When reproducing results, run each configuration with all three seeds and report **mean ± standard deviation** as above.
+
+
+---
+
+## License
+
+This repository is licensed under the Apache License, Version 2.0 (Apache-2.0).  
+See the [LICENSE](LICENSE) file for details.
+
+## Third-Party Notices
+
+Portions of this repository are derived from third-party software:
+
+- **SupContrast** (BSD-2-Clause)  
+  Includes code adapted from **HobbitLong/SupContrast** (BSD-2-Clause), © 2020 Yonglong Tian.  
+  Original source: https://github.com/HobbitLong/SupContrast  
+  The BSD-2-Clause license text is provided in `third_party/SupContrast-BSD-2-LICENSE.txt`.

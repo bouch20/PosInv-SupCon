@@ -167,7 +167,6 @@ Desktop.ini
 *.csv
 *.json
 *.xml
-*.txt
 *.log
 
 # Large binary files
